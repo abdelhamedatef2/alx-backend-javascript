@@ -1,4 +1,5 @@
-# 0x03. ES6 data manipulation
+# 0x02. ES6 classes
+
 ![817248fb77fb5c2cef3f](https://github.com/abdelhamedatef2/alx-backend-javascript/assets/118136210/6969580f-107f-4150-ac82-f6ce504e3c1a)
 
 
